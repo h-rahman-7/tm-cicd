@@ -1,2 +1,2 @@
 # tm-cicd
-CICD workflow for TM ECS project
+CICD workflow for Threat Model ECS project
